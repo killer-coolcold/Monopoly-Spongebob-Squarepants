@@ -205,3 +205,6 @@ This repository serves as the official landing page for SpongeBob SquarePants Mo
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SpongeBob SquarePants Monopoly today!**
+
+---
+**Last updated:** 2026-11-07 22:29:07 UTC
